@@ -1,2 +1,2 @@
 # quantitative_projects
-Quantitative Finance Projets
+Algorithmic Quantitative Finance Projets
